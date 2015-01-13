@@ -1,0 +1,11 @@
+{
+    "projectID"    : 1,
+
+    "userID"       : 123,
+    "appID"        : 456,
+    "priority"     : 1,
+    "budget"       : 500,
+    "creationDate" : "2015/01/12 - 19:39",
+
+    "configuration": "config.xml"
+}

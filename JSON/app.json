@@ -1,0 +1,8 @@
+{
+    "appID"   : 456,
+    "appUser" : 123,
+    "appType" : "android",
+    "appUrl"  : "ftp://app_folder/dalvikexplorer.apk",
+    "appPackageName"    : "org.jessies.dalvikexplorer",
+    "firstActivityName" : "org.jessies.dalvikexplorer.DalvikExplorerActivity",
+}

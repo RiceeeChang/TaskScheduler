@@ -1,0 +1,16 @@
+{
+    "projectID" : 1,
+    "userID"    : 123,
+    "appID"     : 456,
+    "appType"   : "android",
+    "priority"  : 1,
+
+    "appPackageName"    : "org.jessies.dalvikexplorer",
+    "firstActivityName" : "org.jessies.dalvikexplorer.DalvikExplorerActivity",
+
+    "algorithm" : "automatabuild",
+    "setting"   : {},
+
+    "appUrl"    : "ftp://app_folder/dalvikexplorer/apk",
+    "device"    : "LGD8553306609f"
+}
